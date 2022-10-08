@@ -22,6 +22,12 @@
 <br />
 <br />
 
+## Preview
+<br />
+
+![preview](https://user-images.githubusercontent.com/94803906/194682510-aaef13f4-96c8-40e7-8063-9667e25d003e.png)
+
+
 ## Tecnologías utilizadas
 
 <a href="https://skillicons.dev">
