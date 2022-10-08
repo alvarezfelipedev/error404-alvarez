@@ -37,6 +37,18 @@
 <br />
 <br />
 
+## Fuente
+
+* [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans?query=nunito+san)
+
+
+## Servidores utilizados 
+
+* [Vercel](https://vercel.com/) <img src="https://skillicons.dev/icons?i=vercel" width="18"/>
+
+* [GitHub Pages](https://pages.github.com/) <img src="https://skillicons.dev/icons?i=github" width="18"/>
+
+
 ## Link del proyecto
 
 [GitHub Pages](https://alvarezfelipedev.github.io/error-404/)
@@ -44,7 +56,7 @@
 [Netlify.app](https://pagenotfound-error404.netlify.app/)
 
 
-## Contacto
+## Contacto 📩
 
 Alvarez Felipe - n.felipealvarez01@gmail.com
 
